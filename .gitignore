@@ -1,0 +1,17 @@
+kesif/.venv/
+kesif/.uvcache/
+kesif/hf/
+kesif/coreml/
+kesif/duz/
+kesif/yon/
+kesif/*.log
+kesif/etiketler.csv
+kesif/liste_test.jsonl
+kesif/swift/
+uygulama/.build/
+uygulama/paket/Fotora.app/
+kesif/ceviri_karsilastirma.html
+uygulama/paket/*.dmg
+uygulama/paket/modeller/
+kesif/coreml_base/
+.DS_Store

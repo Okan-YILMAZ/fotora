@@ -1,0 +1,5 @@
+Fotora uses SigLIP 2 (google/siglip2-so400m-patch16-384 and google/siglip2-base-patch16-256)
+by Google, converted to Core ML. The model weights and tokenizer are licensed under the
+Apache License, Version 2.0: https://www.apache.org/licenses/LICENSE-2.0
+Modifications: converted from PyTorch to Core ML (fp16); attention pooling head re-implemented
+with the same weights.
